@@ -115,15 +115,15 @@ CREATE THREE REPO IN GITHUB AND CLONE IT TO YOUR PC REPO1:MAIN-add index.html fi
 
 open integrated terminal of MAIN repo
 
-git submodule add https://github.com/SAGAR-SINGH-X-CUBE/JS.git css
-git submodule add https://github.com/SAGAR-SINGH-X-CUBE/CSS.git css
+git submodule add https://github.com/Abhishek71h/Devops_Repo3.git
+git submodule add https://github.com/Abhishek71h/Devops_Repo2.git
 git add .
 git commit -m "submodule added"
 git push
 
 ![photo](./f13.png)
 
-#Hosting Submodule Create a repository with the same name as github username SAGAR-SINGH-X-CUBE.github.io Go to your repository: SAGAR-SINGH-X-CUBE.github.io Click on "Settings" → "Pages" Under "Branch," select main. Click "Save."
+#Hosting Submodule Create a repository with the same name as github username https://github.com/Abhishek71h Go to your repository: https://abhishek71h.github.io/Devops_Repo1/ Click on "Settings" → "Pages" Under "Branch," select main. Click "Save."
 
 ![photo](./f15.png)
 
