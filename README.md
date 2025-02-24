@@ -87,3 +87,19 @@ git log
 
 
 ![allcommit](./f8.png)
+
+
+# LAB-3 GIT COMMANDS
+
+git reset --hard a462d13e9a
+git log
+GIT RESET --HARD:Removed the merge commit 13dd279 and deleted all merged changes. GIT RESET --SOFT:Would have removed the merge commit but kept changes staged, allowing you to re-commit easily.
+
+REBASE
+
+git checkout feature1
+git rebase master
+git log
+
+![rebase](./f11.png)
+![rebase](./f12.png)
