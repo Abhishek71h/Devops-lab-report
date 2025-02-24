@@ -5,7 +5,7 @@
 
 # LAB-1 GIT COMMANDS
 
-git clone https://github.com/SAGAR-SINGH-X-CUBE/DevOps-LABFILE.git
+git clone https://github.com/Abhishek71h/Devops-lab-report.git
 ![clone command](./f1.png)
 
 ```bash
