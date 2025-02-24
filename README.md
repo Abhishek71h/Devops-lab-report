@@ -1,9 +1,6 @@
 # DevOps-LABFILE
 
 # LAB-1 GIT COMMANDS
-=======
-
-# LAB-1 GIT COMMANDS
 
 git clone https://github.com/Abhishek71h/Devops-lab-report.git
 ![clone command](./f1.png)
