@@ -103,3 +103,28 @@ git log
 
 ![rebase](./f11.png)
 ![rebase](./f12.png)
+
+
+# LAB-4 GIT COMMANDS
+
+#GIT SUBMODULE
+
+CREATE THREE REPO IN GITHUB AND CLONE IT TO YOUR PC REPO1:MAIN-add index.html file->add->commit->push REPO2:CSS-add style.css file->add->commit->push REPO3:JS-add script.js file->add->commit->push
+
+![photo](./f14.png)
+
+open integrated terminal of MAIN repo
+
+git submodule add https://github.com/SAGAR-SINGH-X-CUBE/JS.git css
+git submodule add https://github.com/SAGAR-SINGH-X-CUBE/CSS.git css
+git add .
+git commit -m "submodule added"
+git push
+
+![photo](./f13.png)
+
+#Hosting Submodule Create a repository with the same name as github username SAGAR-SINGH-X-CUBE.github.io Go to your repository: SAGAR-SINGH-X-CUBE.github.io Click on "Settings" → "Pages" Under "Branch," select main. Click "Save."
+
+![photo](./f15.png)
+
+![photo](./f16.png)
