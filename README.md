@@ -100,3 +100,6 @@ REBASE
 git checkout feature1
 git rebase master
 git log
+
+![rebase](./f11.png)
+![rebase](./f12.png)
